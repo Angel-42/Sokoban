@@ -1,19 +1,21 @@
 # MySokoban - C & Ncurses
 
+> Note: This project originates from Epitech.
+
 A clone of the classic Sokoban puzzle game, developed in C using the `ncurses` library.
 
-🎮 The Project
-----------------
-The goal is to move crates onto target spots in a warehouse.
-This project focuses on 2D array manipulation, real-time keyboard input handling, and collision detection algorithms.
+## 🎮 Project Overview
 
-🛠️ Installation
-----------------
+The objective is to push crates onto designated target spots within a warehouse.  
+This project demonstrates 2D array manipulation, real-time keyboard input handling, and collision detection algorithms.
+
+## 🛠️ Installation
+
 ```bash
 make
 ./my_sokoban [map_path]
 ```
 
-Sample test maps can be found in the `map/` folder.
+Sample test maps are available in the `map/` directory.
 
-Contribute by adding your own map files to `map/`.
+You can contribute by adding your own map files to the `map/` folder.

@@ -1,11 +1,11 @@
 # MySokoban - C & Ncurses
 
-Un clone du célèbre jeu de puzzle Sokoban, développé en C avec la bibliothèque `ncurses`.
+A clone of the classic Sokoban puzzle game, developed in C using the `ncurses` library.
 
-🎮 Le Projet
+🎮 The Project
 ----------------
-L'objectif est de déplacer des caisses sur des emplacements cibles dans un entrepôt.
-Ce projet met l'accent sur la manipulation de tableaux 2D, la gestion des entrées clavier en temps réel et les algorithmes de détection de collision.
+The goal is to move crates onto target spots in a warehouse.
+This project focuses on 2D array manipulation, real-time keyboard input handling, and collision detection algorithms.
 
 🛠️ Installation
 ----------------
@@ -14,6 +14,6 @@ make
 ./my_sokoban [map_path]
 ```
 
-Exemples de maps de test se trouvent dans le dossier `map/`.
+Sample test maps can be found in the `map/` folder.
 
-Contribuez en ajoutant vos propres fichiers de map dans `map/`.
+Contribute by adding your own map files to `map/`.

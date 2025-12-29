@@ -1,0 +1,33 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
+
+# Ignore editor/project files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+
+# Ignore binary
+my_sokoban

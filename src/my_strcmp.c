@@ -5,7 +5,7 @@
 ** Task06-my_strcmp, a code that compares 2 strings
 */
 
-#include "my.h"
+#include "../include/my.h"
 
 int my_strcmp(char const *s1, char const *s2)
 {

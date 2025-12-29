@@ -16,7 +16,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include "my.h"
+#include "../include/my.h"
 
 void is_caro(char **map, int y, int x, all *al)
 {

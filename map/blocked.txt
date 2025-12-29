@@ -1,0 +1,8 @@
+######
+#    #
+# P  #
+# XXO#
+#  X #
+######
+
+# Note: this layout is intended as a challenging/unsolvable example

@@ -15,7 +15,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include "my.h"
+#include "../include/my.h"
 
 int is_file(char const *path)
 {

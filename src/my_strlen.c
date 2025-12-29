@@ -5,7 +5,7 @@
 ** Task03-my_strlen
 */
 
-#include "my.h"
+#include "../include/my.h"
 
 int my_strlen(char const *str)
 {

@@ -6,7 +6,7 @@
 */
 
 #include <unistd.h>
-#include "my.h"
+#include "../include/my.h"
 
 void usages(void)
 {

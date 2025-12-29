@@ -16,7 +16,7 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
-#include "my.h"
+#include "../include/my.h"
 
 bool check_win(all *al, char **map)
 {

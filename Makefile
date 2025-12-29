@@ -7,17 +7,17 @@
 
 NAME	=	my_sokoban
 
-SRCS	=	my_sokoban.c \
-			my_strlen.c \
-			is_not_file.c \
-			move_plox.c \
-			my_strcmp.c \
-			usages.c \
-			loose_win.c \
-			save_pos.c \
-			draw_copy_calc_map.c \
-			my_putstr.c \
-			my_putchar.c \
+SRCS	=	src/my_sokoban.c \
+			src/my_strlen.c \
+			src/is_not_file.c \
+			src/move_plox.c \
+			src/my_strcmp.c \
+			src/usages.c \
+			src/loose_win.c \
+			src/save_pos.c \
+			src/draw_copy_calc_map.c \
+			src/my_putstr.c \
+			src/my_putchar.c \
 
 OBJS	=	$(SRCS:.c=.o)
 
